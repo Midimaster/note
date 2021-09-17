@@ -5,7 +5,6 @@ import org.apache.commons.lang3.StringUtils;
 public class Ipv4AddressPatch {
 
     public static void main(String[] args) {
-//
 //        System.out.print(isIPv4Address("64.233.161.00"));
         int[] a = {5, 3, 6, 7, 9};
         System.out.println(avoidObstacles(a));
