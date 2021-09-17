@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+/.gradle/6.7/executionHistory/executionHistory.lock
+/src/main/resources/META-INF/additional-spring-configuration-metadata.json
